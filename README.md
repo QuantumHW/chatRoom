@@ -44,10 +44,10 @@ chatRoom
 
 ## 2.环境依赖
 
-Python 3.9.7
-MySQL 8.0.28
-PyMySQL==1.0.2
-requests==2.26.0
+Python 3.9.7  
+MySQL 8.0.28  
+PyMySQL==1.0.2  
+requests==2.26.0  
 
 
 
