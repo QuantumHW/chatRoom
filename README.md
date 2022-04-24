@@ -88,7 +88,7 @@ requests==2.26.0
 
 ## 4.运行截图
 
-![](https://github.com/QuantumHW/chatRoom/tree/master/chatRoom/res/screenshot/登录界面.png)
+![](https://github.com/QuantumHW/chatRoom/blob/master/res/screenshot/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
 
-![](https://github.com/QuantumHW/chatRoom/tree/master/chatRoom/res/screenshot/聊天界面.png)
+![](https://github.com/QuantumHW/chatRoom/blob/master/res/screenshot/%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2.png)
 
