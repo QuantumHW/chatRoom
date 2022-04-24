@@ -17,28 +17,28 @@
 ## 1.项目结构
 
 chatRoom             
-├─ emoji                //存放表情包的文件夹  
+├─ emoji &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//存放表情包的文件夹  
 │  ├─ concerned.png  
 │  ├─ facepalm.png   
 │  ├─ smart.png      
 │  └─ smirk.png      
-├─ image             //可视化界面中用到的图片  
+├─ image &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//可视化界面中用到的图片  
 │  ├─ key.png        
 │  └─ user.png       
 ├─ res               
-│  ├─ screenshot     //屏幕截图  
+│  ├─ screenshot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//屏幕截图  
 │  │  ├─ 登录界面.png    
 │  │  └─ 聊天界面.png    
-│  └─ chat.sql                //配套SQL脚本  
-├─ Client.py          //客户端类  
-├─ databaseTool.py    //数据库操作类  
-├─ LoginPanel.py			 //可视化登录界面类  
-├─ Main.py				 //用户主类  
-├─ MainPanel.py 		 //可视化主界面类  
-├─ MD5.py				//MD5加密工具  
-├─ README.md 
-├─ RegisterPanel.py 		//可视化注册类  
-└─ Server.py                               //服务端脚本   
+│  └─ chat.sql &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//配套SQL脚本  
+├─ Client.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//客户端类  
+├─ databaseTool.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//数据库操作类  
+├─ LoginPanel.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//可视化登录界面类  
+├─ Main.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//用户主类  
+├─ MainPanel.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//可视化主界面类  
+├─ MD5.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//MD5加密工具  
+├─ README.md  
+├─ RegisterPanel.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//可视化注册类  
+└─ Server.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//服务端脚本   
 
 
 
